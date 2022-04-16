@@ -1,0 +1,63 @@
+html {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.Emission h2 {
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.emission-bar {
+    position: relative;
+    background: #95959595;
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.emission-bar div {
+    height: 30px;
+    border-radius: 5px;
+    width: 50%;
+    background: linear-gradient(to right, green, gray);
+}
+
+.emission-bar span {
+    position: absolute;
+    top: -10px;
+    left: 20%;
+}
+
+.licenseplate {
+    color: #333;
+    background-color: yellow;
+    background-image: url(./assets/200px-EU-section-with-NL.svg.png);
+    background-size: 11%;
+    background-repeat: no-repeat;
+
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 100px;
+    line-height: 110px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+
+    padding-left: 60px;
+    padding-bottom: 10px;
+
+    width: 510px;
+    border: 5px solid black;
+    border-radius: 15px;
+    outline: none;
+}
