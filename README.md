@@ -32,7 +32,8 @@ Voorwaardelijk: de punten voor reflectie kan je alleen halen als je een werkende
 Voor de reflectie pitch je jouw uitwerking van stap 3 aan je eigen TLE team. Dit doe je op eigen gelegenheid. Het doel is om feedback van je team te verzamelen.
 In je inleverdocument plaats je een korte screencast van de werking van je eindproduct, en de link naar je online eindproduct. Daarnaast beantwoord je onderstaande vragen:
 
-[screencast](youtube.com)
+[website](https://olivier-vromans.github.io/prg08-2022-week9-Olivier-Vromans/)
+[screencast](https://youtu.be/-9VfvKUOdXs)
 
 ### Refectie Techniek
 

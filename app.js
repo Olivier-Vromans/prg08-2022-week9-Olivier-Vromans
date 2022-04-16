@@ -30,7 +30,6 @@ async function fetchLicensePlate() {
         .then(response => response.json())
         .then(data => {
             let fuel = data.brandstof[0].brandstof_omschrijving
-            // TODO change fueltype to letter 
             let fuelType = ""
             switch (fuel) {
                 case "Diesel":
