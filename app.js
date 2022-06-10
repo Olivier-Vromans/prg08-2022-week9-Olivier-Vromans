@@ -1,7 +1,7 @@
 const nn = ml5.neuralNetwork({task: "regression", debug:true})
 
 const url = "https://api.overheid.io/voertuiggegevens/"
-const key = "790e67a7df3d78ba197a8ef6d1a8f5300f536acaa290728e653df15a6bafe96f"
+const key = "98464c5cfe29b4613fca96699ce6ad2edc9faef966876a0099347c6d26e3764"
 const submit = document.getElementById('submit')
 
 let model
